@@ -21,6 +21,7 @@ Visual components and Python
 
 
 ## Program
+```
 Name : Shobika P
 Reg No: 212221230096
 
@@ -62,7 +63,7 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("----------------------------------------------------------------------")
 
-
+```
 
 ## Output
 ![image](https://user-images.githubusercontent.com/94508142/204571078-3b5b11e2-da18-4cee-bf79-d9cbac46fc41.png)
